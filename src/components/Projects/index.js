@@ -55,7 +55,7 @@ const Desc = styled.div`
     font-size: 16px;
   }
 `;
-;
+
 const ToogleGroup = styled.div`
   display: flex;
   border: 1.5px solid ${({ theme }) => theme.primary};
