@@ -88,7 +88,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Iam Vysh</Logo>
+        <Logo>Iam Vishnu</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -104,7 +104,7 @@ const Footer = () => {
           </SocialMediaIcon>
           
         </SocialMediaIcons>
-        <Copyright>&copy; Vyshnav Thaithottathil</Copyright>
+        <Copyright>&copy; Vishnu K P</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
