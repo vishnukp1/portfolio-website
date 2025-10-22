@@ -12,6 +12,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import { ToastContainer } from 'react-toastify';
 import { useMode } from "./store/modeStore";
+import Integrations from "./components/Integrations/Integrations";
 
 
 const Body = styled.div`
@@ -48,6 +49,7 @@ function App() {
             <Hero />
             <Wrapper>
               <Skills />
+              <Integrations/>
               <Experience />
             </Wrapper>
             <Projects />

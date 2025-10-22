@@ -11,7 +11,7 @@ export const Bio = {
     "Armed with a B Com in Commerce, I've dived headfirst into the world of development. My fervor lies in harnessing technology to solve real-world challenges, and I'm dedicated to advancing this endeavor.",
   github: "https://github.com/vishnukp1",
   resume:
-    "https://drive.google.com/file/d/10ECKoxRE5TcTIyXUv733D9Qpv4uzDO7i/view?usp=drive_link",
+    "https://drive.google.com/file/d/1IU1CBdIaF5qY_Af-xZG9c-bbWRjwzD5E/view?usp=sharing",
   linkedin: "www.linkedin.com/in/vishnukpconnect",
 };
 
@@ -84,7 +84,7 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
       {
-        name: "MongoDB",
+        name: "PostgreSQL",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/180px-Postgresql_elephant.svg.png",
       },
@@ -128,6 +128,7 @@ export const skills = [
       },
     ],
   },
+  
 ];
 
 export const experiences = [
@@ -317,3 +318,30 @@ export const projects = [
 //   { year: 2020, text: "Shared my projects with the world" },
 //   { year: 2021, text: "Started my own platform" },
 // ];
+export const integrations = [
+  {
+    title: "Integrations & Tools",
+    skills: [
+      { name: "Stripe Payment" },
+      { name: "Firebase" },
+      { name: "Nodemailer" },
+      { name: "Socket.io" },
+      { name: "Reactflow" },
+      { name: "Chart.js" },
+      { name: "Swiper.js" },
+      { name: "Multi-tenancy System" },
+      { name: "Cloudinary" },
+      { name: "Multer" },
+      { name: "AWS" },
+      { name: "GitHub" },
+      { name: "MVC Architecture" },
+      { name: "Agile" },
+      { name: "Postman" },
+      { name: "Formik" },
+      { name: "Pagination" },
+      { name: "PDF Uploader" },
+      { name: "Parallax Image Scroll" },
+      { name: "JWT Authentication" },
+    ],
+  },
+];
