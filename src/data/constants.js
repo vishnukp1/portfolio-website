@@ -8,7 +8,7 @@ export const Bio = {
   roles: [
     "Full Stack Developer",
     "Mern stack Developer",
-    "React js & Node js developer",
+    "React & Node js developer",
 
   ],
   description:
