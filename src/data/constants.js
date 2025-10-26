@@ -7,10 +7,9 @@ export const Bio = {
   name: "Vishnu K P",
   roles: [
     "Full Stack Developer",
-    "Programmer",
     "Mern stack Developer",
-    "React js developer",
-    "Node js developer",
+    "React js & Node js developer",
+
   ],
   description:
     "Armed with a B Com in Commerce, I've dived headfirst into the world of development. My fervor lies in harnessing technology to solve real-world challenges, and I'm dedicated to advancing this endeavor.",
