@@ -1,6 +1,7 @@
 import cafe from "../images/cafe.png";
 import ecom from "../images/ecom.png";
 import forum from "../images/forum.png";
+import fitness from "../images/fitness.png"
 
 export const Bio = {
   name: "Vishnu K P",
@@ -255,9 +256,28 @@ export const projects = [
       "React query",
     ],
     category: "web app",
-    github: "https://github.com/",
+    github: "https://github.com/vishnukp1/employee-mngt-app.git",
 
     liveapp: "http://employee-mngt-app.vercel.app",
+  },
+    {
+    id: 5,
+    title: "Fitness club website",
+    // date: "2024",
+    description: "Developed a Furum Discusion Page.",
+    image:fitness,
+    tags: [
+      "React Js",
+    "emailjs",
+    "framermotion",
+      "Git",
+      "GitHub",
+      "Vercel",
+  
+    ],
+    category: "web app",
+    github: "https://github.com/vishnukp1/react-fitness-club.git",
+    liveapp: "http://react-fitness-club.vercel.app",
   },
   {
     id: 3,
@@ -276,7 +296,7 @@ export const projects = [
       "stripe",
     ],
     category: "web app",
-    github: "https://github.com/iamvysh",
+    github: "https://github.com/vishnukp1/cafe-project.git",
     liveapp: "https://cafe-project-sable.vercel.app/",
   },
   
@@ -292,14 +312,13 @@ export const projects = [
       "Git",
       "GitHub",
       "Vercel",
-      "Node js",
-      "MongoDb",
-      "Express js",
+    
     ],
-    category: " lms-library management software ",
-    github: "https://github.com/iamvysh",
+    category: "web app",
+    github: "https://github.com/vishnukp1/Forum_discussion_react.git",
     liveapp: "http://forum-discussion-react-six.vercel.app",
   },
+ 
 ];
 
 // export const TimeLineData = [
