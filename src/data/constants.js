@@ -142,7 +142,7 @@ export const experiences = [
     img: "https://bridgeon.in/_next/image?url=%2Fbridgeon.png&w=256&q=75",
     role: "Web Development",
     company: "Bridgeon",
-    date: "Mar 2023 - Dec 2023",
+    date: "Feb 2024 - Dec 2024",
     // date: "Aug 2022",
     desc: "At BridgeOn Solutions, I guide cross-functional team projects, employing React.js, Node.js, MongoDB, and Express.js to craft web applications. I've directed CRUD operations, enhancing efficiency. Additionally, I've engineered interactive features like carts and secure payment options, driving increased user engagement.",
     skills: [
